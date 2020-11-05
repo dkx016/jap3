@@ -21,6 +21,7 @@ public class JavaApplication3 {
     }
 
     void test() {
+        System.out.println("aącćeę");
     }
 
 }
