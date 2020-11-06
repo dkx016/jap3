@@ -25,4 +25,7 @@ public class JavaApplication3 {
         System.out.println("ABC...");
     }
 
+    void test2() {
+    }
+
 }
